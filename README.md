@@ -4,27 +4,29 @@
 
 ## Screens it contains:
 
-=> Onboarding
+- Onboarding
 
-=> Login
+- Login
 
-=> Forgot Password
+- Forgot Password
 
-=> Sign Up
+- Sign Up
 
-=> Complete Profile
+- Complete Profile
 
-=> OTP Verification
+- OTP Verification
 
-=> Home Page
+- Home Page
 
-=> Product Details
+- Product Details
 
-=> Order
+- Order
 
-=> Profile (added)
+- Profile (added)
 
-=> Bottom Navigation Bar (added)
+- Bottom Navigation Bar (added)
 
-Now it contains all the screen, thanks for your love and support 🙏 
+## Qurrota Nastiti Rizqita Aura Syifa (1800018240)
+## For RKS Final Project
+## International Class
 
