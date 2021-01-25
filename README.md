@@ -5,28 +5,19 @@
 ## Screens it contains:
 
 - Onboarding
-
 - Login
-
 - Forgot Password
-
 - Sign Up
-
 - Complete Profile
-
 - OTP Verification
-
 - Home Page
-
 - Product Details
-
 - Order
-
-- Profile (added)
-
-- Bottom Navigation Bar (added)
+- Profile
+- Bottom Navigation Bar 
 
 ## Qurrota Nastiti Rizqita Aura Syifa (1800018240)
-## For RKS Final Project
-## International Class
+- For RKS Final Project
+- International Class
+- The author decided to update a large - scale because the author considers it easier to monitor and because the code related to one another.
 
